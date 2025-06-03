@@ -1,40 +1,27 @@
-### 👋 Привет! Я Juma
-Frontend разработчик | UI/UX энтузиаст | Создатель современных веб-интерфейсов
+# Привет! 👋 Я Джума Аннанур
 
-🚀 **Специализация:**
-- Разработка адаптивных пользовательских интерфейсов
-- Создание CSS-эффектов: Glassmorphism, Neumorphism
-- Интерактивные веб-компоненты
-- Оптимизация пользовательского опыта
+**Frontend Developer | UI/UX Enthusiast | Веб-интерфейсы с душой**
 
-💼 **Портфолио:** [juma-annanur.github.io](https://juma-annanur.github.io)
-📫 **Контакты:** [jannanurow@gmail.com](mailto:jannanurow@gmail.com)
+[![Website](https://img.shields.io/badge/Портфолио-juma--annanur.github.io-blue?style=flat-square)](https://juma-annanur.github.io)
+[![Email](https://img.shields.io/badge/Email-jannanurow@gmail.com-red?style=flat-square)](mailto:jannanurow@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@yourname-green?style=flat-square)](https://t.me/yourname)
 
-🔧 **Технологический стек:**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+## 🛠 Технологический стек
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-🌱 **Сейчас изучаю:**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+## 🌱 Сейчас изучаю
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-📊 **Статистика GitHub:**
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juma-annanur&show_icons=true&theme=radical)](https://github.com/juma-annanur)
+## 🔥 Избранные проекты
+| Проект | Технологии | Демо |
+|--------|------------|------|
+| [🔮 Форма Glassmorphism](https://github.com/juma-annanur/glassmorphism-form) | HTML, CSS, JS | [Live Demo]() |
+| [🚀 Персональное портфолио](https://github.com/juma-annanur/portfolio) | HTML, CSS, JS | [Live Demo](https://juma-annanur.github.io) |
+| [✨ React-приложение (в разработке)]() | React, TypeScript | Скоро |
 
-🌟 **Избранные проекты:**
-- [🔮 Glassmorphism Login Form](https://github.com/juma-annanur/glassmorphism-login-form) - современная форма входа
-- [🚀 Персональное портфолио](https://github.com/juma-annanur/juma-annanur.github.io) - мои работы и навыки
-- [✨ Coming Soon]() - React-приложение
-
-😄 **Местоимения:** он/его
-⚡ **Забавный факт:** Могу создать анимацию CSS быстрее, чем приготовить кофе! ☕
-
----
-
-<p align="center">
-  <i>«Код — это поэзия, написанная логикой»</i>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juma-annanur&show_icons=true&theme=radical)
