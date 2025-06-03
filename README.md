@@ -1,4 +1,4 @@
-# Привет! 👋 Я Джума Аннанур
+# Привет! 👋 Я Джума
 
 **Frontend Developer | UI/UX Enthusiast | Веб-интерфейсы с душой**
 
@@ -20,8 +20,8 @@
 ## 🔥 Избранные проекты
 | Проект | Технологии | Демо |
 |--------|------------|------|
-| [🔮 Форма Glassmorphism](https://github.com/juma-annanur/glassmorphism-form) | HTML, CSS, JS | [Live Demo]() |
-| [🚀 Персональное портфолио](https://github.com/juma-annanur/portfolio) | HTML, CSS, JS | [Live Demo](https://juma-annanur.github.io) |
+| [🔮 Форма Glassmorphism](https://github.com/juma-annanur/glassmorphism-login-form) | HTML, CSS, JS | [Live Demo](https://github.com/juma-annanur/glassmorphism-login-form/blob/main/README.md) |
+| [🚀 Персональное портфолио](https://github.com/juma-annanur/portfolio) | HTML, CSS, JS | [Live Demo](https://github.com/juma-annanur/glassmorphism-login-form/blob/main/preview.jpg) |
 | [✨ React-приложение (в разработке)]() | React, TypeScript | Скоро |
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juma-annanur&show_icons=true&theme=radical)
