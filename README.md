@@ -21,7 +21,7 @@
 | Проект | Технологии | Демо |
 |--------|------------|------|
 | [🔮 Форма Glassmorphism](https://juma-annanur.github.io/glassmorphism-login-form/) | HTML, CSS, JS | [Live Demo](https://juma-annanur.github.io/glassmorphism-login-form/) |
-| [📚 Book store](https://juma-annanur.github.io/juma-bookstore/) | HTML, CSS, JS | [Live Demo](https://juma-annanur.github.io/juma-bookstore/)) |
+| [📚 Book store](https://juma-annanur.github.io/juma-bookstore/) | HTML, CSS, JS | [Live Demo](https://juma-annanur.github.io/juma-bookstore/) |
 | [🚀 Персональное портфолио](https://juma-annanur.github.io/) | HTML, CSS, JS | [Live Demo](https://juma-annanur.github.io/) |
 | [✨ React-приложение (в разработке)]() | React, TypeScript | Скоро |
 
