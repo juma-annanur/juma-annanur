@@ -34,8 +34,7 @@
 
 ## 📁 Popular Repositories
 
-- [`juma-annanur`](https://github.com/juma-annanur) — GitHub profile configuration  
-- [`juma-annanur.github.io`](https://github.com/juma-annanur/juma-annanur.github.io) — Personal portfolio website  
+- [`juma-annanur`](https://juma-annanur.github.io) — GitHub profile configuration  
 - [`glassmorphism-login-form`](https://github.com/juma-annanur/glassmorphism-login-form) — Login UI with glass effect  
 - [`juma-bookstore`](https://github.com/juma-annanur/juma-bookstore) — Bookstore web app
 
