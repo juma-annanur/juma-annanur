@@ -18,7 +18,7 @@
 ## 🔥 Лучшие проекты
 
 ### 🛒 Книжный магазин
-[![Демо](https://img.shields.io/badge/▶_Демо-онлайн-brightgreen)](https://juma-annanur.github.io/juma-bookstore) • 
+[![Демо](https://img.shields.io/badge/▶_Демо-онлайн-brightgreen)](https://github.com/juma-annanur/juma-bookstore/blob/main/bookstore%201.jpg) • 
 [![Код](https://img.shields.io/badge/</>-_Исходники-blue)](https://github.com/juma-annanur/juma-bookstore)
 
 **Решенные задачи:**  
