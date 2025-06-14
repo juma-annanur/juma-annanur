@@ -8,10 +8,10 @@
 ---
 
 ## 🛠 Технологии  
-**HTML5** ![90%](https://progress-bar.dev/90) • 
-**CSS3** ![85%](https://progress-bar.dev/85) • 
-**JavaScript** ![75%](https://progress-bar.dev/75) • 
-**Figma** ![80%](https://progress-bar.dev/80)
+**HTML5** ![](https://progress-bar.dev/90)  
+**CSS3**  ![](https://progress-bar.dev/85)  
+**JavaScript**  ![](https://progress-bar.dev/75)  
+**Figma**  ![](https://progress-bar.dev/80)
 
 ---
 
